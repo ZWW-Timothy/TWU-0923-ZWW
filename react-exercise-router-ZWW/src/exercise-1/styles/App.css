@@ -1,0 +1,11 @@
+h1,
+h2{
+    color:rgb(95, 95, 95);
+    margin: 0 0 5px 60px;
+}
+
+h3{
+    color:gray;
+    margin: 0 0 5px 60px;
+    font-size: 20px;
+}

@@ -1,0 +1,13 @@
+nav {
+    background-color: rgb(205, 205, 205);
+    height: 50px;
+    margin:0 0 30px 0;
+}
+
+.nav-link {
+    color:rgb(95, 95, 95);
+    margin: 10px;
+    float: right;
+    text-decoration: none;
+    font-weight: 500;
+}
